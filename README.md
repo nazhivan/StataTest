@@ -8,7 +8,7 @@ While STATA has several types of files, there are three MAIN types of files that
 - .do files - these text files contain list of commands that can be executed and edited in the future even after STATA is closed; it is always recommended to create .do file for each project you do. **REMEMBER to save it!**
 - "log" files - these files record commands followed by STATA output/results of your .do file or your work when STATA is usedninterectively into a file that can be read in the future. By default, STATA will save your "log" files with .smcl extention that can be read only by STATA. It is recommended to save your "log" files as .txt or .pdf files. This way, you can open "log" files on any computer even if STATA is not installed. 
 
-## 2. Opening a data file and working with Stata interectively [Example 1](statahelp_test1.html) 
+## 2. Opening a data file and working with Stata interectively ###[Example 1](statahelp_test1.html) 
 - use
 - count 
 - describe
@@ -16,11 +16,11 @@ While STATA has several types of files, there are three MAIN types of files that
 - generate
 - tabulate
 
-## 3. Creating a .do and .log files [Example 2]()
+## 3. Creating a .do and .log files ###[Example 2]()
 - clear
 - STATA comments
 - capture
 - log using
 - translator
 
-## 4. Mock exercise [Example 3]()
+## 4. Mock exercise ###[Example 3]()
