@@ -2,21 +2,25 @@ This work-in-progress website is designed for students interested in learning ho
 
 Students are encouraged to create a separate folder for the course "IntroEconometrics" where all course and Stata related files can be saved. It will make easy for students to program and analyze the data.
 
-## 1. Types of file in STATA
+## 1. Types of files in STATA
 While STATA has several types of files, there are three MAIN types of files that will be used here:
 - .dta files - these files contain data in STATA format; note that several other formats of data, such as, .csv, .xls, etc. can be imported into STATA.
 - .do files - these text files contain list of commands that can be executed and edited in the future even after STATA is closed; it is always recommended to create .do file for each project you do. **REMEMBER to save it!**
 - "log" files - these files record commands followed by STATA output/results of your .do file or your work when STATA is usedninterectively into a file that can be read in the future. By default, STATA will save your "log" files with .smcl extention that can be read only by STATA. It is recommended to save your "log" files as .txt or .pdf files. This way, you can open "log" files on any computer even if STATA is not installed. 
 
-## 2. Opening a data file and working with Stata interectively [Simple Example](statahelp_test1.html) 
-This exersise uses data provided by StataCorp and introduces the following commands:
+## 2. Opening a data file and working with Stata interectively [Example 1](statahelp_test1.html) 
 - use
 - count 
 - describe
 - summarize
+- generate
 - tabulate
 
-2. Opening your own file
-3. Creating a **do file**
-4. Creating a **log file**
-5. Simple descriptive statistics examples
+## 3. Creating a **do** and **log** files [Example 2]().
+- clear
+- STATA comments
+- capture
+- log using
+- translator
+
+## 4. Mock exercise  [Example 3] ().
