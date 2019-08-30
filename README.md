@@ -16,7 +16,7 @@ While STATA has several types of files, there are three MAIN types of files that
 - generate
 - tabulate
 
-## 3. [Creating a .do and .log files]()
+## 3. [Creating a .do and .log files](Log_and_Do.html)
 - clear
 - STATA comments
 - capture
